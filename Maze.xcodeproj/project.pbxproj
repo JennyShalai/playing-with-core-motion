@@ -14,6 +14,8 @@
 		1BC37D201D30162F00537744 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BC37D1E1D30162F00537744 /* Main.storyboard */; };
 		1BC37D221D30162F00537744 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BC37D211D30162F00537744 /* Assets.xcassets */; };
 		1BC37D251D30162F00537744 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BC37D231D30162F00537744 /* LaunchScreen.storyboard */; };
+		BA037E601D49A08B00635032 /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = BA037E5F1D49A08B00635032 /* ball.png */; };
+		BA5ED0C01D49A4AA00479A1B /* pokemon.png in Resources */ = {isa = PBXBuildFile; fileRef = BA5ED0BF1D49A4AA00479A1B /* pokemon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		1BC37D211D30162F00537744 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BC37D241D30162F00537744 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1BC37D261D30162F00537744 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA037E5F1D49A08B00635032 /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
+		BA5ED0BF1D49A4AA00479A1B /* pokemon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pokemon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				1BC37D1A1D30162F00537744 /* GameScene.swift */,
 				1BC37D1C1D30162F00537744 /* GameViewController.swift */,
 				1BC37D1E1D30162F00537744 /* Main.storyboard */,
+				BA5ED0BF1D49A4AA00479A1B /* pokemon.png */,
+				BA037E5F1D49A08B00635032 /* ball.png */,
 				1BC37D211D30162F00537744 /* Assets.xcassets */,
 				1BC37D231D30162F00537744 /* LaunchScreen.storyboard */,
 				1BC37D261D30162F00537744 /* Info.plist */,
@@ -130,6 +136,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1BC37D191D30162F00537744 /* GameScene.sks in Resources */,
+				BA5ED0C01D49A4AA00479A1B /* pokemon.png in Resources */,
+				BA037E601D49A08B00635032 /* ball.png in Resources */,
 				1BC37D251D30162F00537744 /* LaunchScreen.storyboard in Resources */,
 				1BC37D221D30162F00537744 /* Assets.xcassets in Resources */,
 				1BC37D201D30162F00537744 /* Main.storyboard in Resources */,
